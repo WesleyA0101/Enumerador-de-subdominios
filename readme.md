@@ -4,9 +4,13 @@ Bem-vindo ao **Enumerador de Subdomínios**, uma ferramenta eficiente para a des
 
 ## 🚀 Funcionalidades
 ✅ Enumeração automática de subdomínios
+
 ✅ Resolução DNS para obtenção de endereços IP
+
 ✅ Tratamento avançado de erros
+
 ✅ Suporte a wordlists personalizadas
+
 ✅ Simplicidade e eficiência na execução
 
 ## 📌 Requisitos
