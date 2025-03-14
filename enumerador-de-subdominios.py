@@ -1,3 +1,8 @@
+#-------------------------------------------------------#
+#             Ferramenta de subdominio                  #
+#             Criado por: WesleyA0101                   #                                                                                                        
+#-------------------------------------------------------#
+
 import sys
 import dns.resolver
 
